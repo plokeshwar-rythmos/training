@@ -28,6 +28,9 @@ public class Runner {
 		System.out.println(cc.equals(cc1));
 		//cc.setName("Chadan");
 		//SetCreateCustomer(cc);
+		
+		
+		cc.setName("Rythmos");
 
 	}
 	
