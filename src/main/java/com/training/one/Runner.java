@@ -29,6 +29,9 @@ public class Runner {
 		cc.setName("Chadan");
 		cc.setAddress("Microsoft");
 		//SetCreateCustomer(cc);
+		
+		
+		cc.setName("Rythmos");
 
 	}
 	
