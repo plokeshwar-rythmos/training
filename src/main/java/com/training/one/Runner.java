@@ -26,7 +26,8 @@ public class Runner {
 	//	System.out.println(cc.getAddress().equals(cc1.getAddress()));
 		
 		System.out.println(cc.equals(cc1));
-		//cc.setName("Chadan");
+		cc.setName("Chadan");
+		cc.setAddress("Microsoft");
 		//SetCreateCustomer(cc);
 
 	}
